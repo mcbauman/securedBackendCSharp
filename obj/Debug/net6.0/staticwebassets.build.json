@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AEIrNQiKVwnz8JV6jDwOH6MLALyg6pZHLU3UaMRN2Wg=",
+  "Source": "securedDataStoreage",
+  "BasePath": "_content/securedDataStoreage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
