@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "G39PHCfn9OFlK9v1aafoMq9ImiunX/7QeTi0kIviDO0DUpI4qJtMBA9KKZ/5ArNjvWtYoAto+ag8kypb7d1low==",
+  "dgSpecHash": "/f9zrR63da20yH4+kelD9lKHjXREwY06qwbzN/dVKk8nASB75L0Unq0rQFJqOyj/decwII6UwjedMkxzhoae6w==",
   "success": true,
   "projectFilePath": "/Users/matthias.baumann/learningCS/securedDataStoreage/securedDataStoreage.csproj",
   "expectedPackageFiles": [
+    "/Users/matthias.baumann/.nuget/packages/bcrypt.net-core/1.6.0/bcrypt.net-core.1.6.0.nupkg.sha512",
     "/Users/matthias.baumann/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/matthias.baumann/.nuget/packages/microsoft.entityframeworkcore/6.0.7/microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "/Users/matthias.baumann/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.7/microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",

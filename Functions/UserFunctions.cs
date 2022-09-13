@@ -10,10 +10,10 @@ public class UserFunctions
     {
         _context = context;
     }
-    public void createUser(UserDTO newUser)
+    public void CreateUser(UserDTO newUser)
     {
-        _context.Users.Add(newUser);
-        await _context.SaveChangesAsync();
+        // _context.Users.Add(newUser);
+        // await _context.SaveChangesAsync();
     } 
 }
 
